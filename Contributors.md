@@ -5,7 +5,6 @@
 - [Andrew Maged](https://github.com/AndrewMaged814)
 - [Sanket Zade](https://github.com/ZSank)
 - [Benjamin Rifleman](https://github.com/rifleben)
-- NOELL BIJU MICHAEL
 - [Stanley Tsai](https://github.com/stanley880902)
 - [Ishan Dutta](https://github.com/ishandutta0098)
 - [Robin Kempen](https://github.com/Robinho1997)
@@ -33,7 +32,6 @@ Hi  ..this  is shubham making my first contribution ...
 - [Vittorio Halfon] (https://github.com/vittoriohalfon)
 - [Ahmad Alkassar] ()
 - [Aahad](https://github.com/Aahad-1526)
-
 -[Dev Raj Verma](https://github.com/DevRajVerma)
 - [Shadman Wadith](https://github.com/wadith027)
 -[Mukesh Mahato](https://github.com/mukeshmahato18)
